@@ -48,20 +48,14 @@ Here, we **transform that raw feedback** into:
 - 💻 **VS Code** (your playground)  
 
 
-## 📊 Example Insights You Can Find
+## 📊 Insights You Can Find
 - ⭐ **Top 3 events with highest satisfaction**  
 - 💬 **Most common complaints** (via word cloud)  
 - 🔗 **Correlation between ratings & event type** (workshop vs seminar)  
 - 🏫 **Which departments host the most-liked events**
   
 
-## ✨ Outcome
-By the end of this project, you’ll have:  
-✔️ Hands-on experience with **data cleaning, visualization, and sentiment analysis**  
-✔️ A **report of insights** you can actually present to decision-makers  
-✔️ A project that proves you can **turn messy survey responses into clear, actionable insights**  
 
----
 
-💡 *Feedback is the voice of students. Data Science is the megaphone.* 🔊
+
 # FUTURE_DS_03
