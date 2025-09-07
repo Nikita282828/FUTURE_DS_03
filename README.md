@@ -28,13 +28,13 @@ Here, we **transform that raw feedback** into:
 
 <img width="1033" height="685" alt="Screenshot 2025-09-07 170342" src="https://github.com/user-attachments/assets/5a0ccfe7-57ef-4cd3-95a3-39c5fabdb217" />
 
+<img width="682" height="369" alt="Screenshot 2025-09-07 170330" src="https://github.com/user-attachments/assets/2b554931-4ab3-4417-8453-2fdf513e6957" />
+
 <img width="484" height="501" alt="Screenshot 2025-09-07 170322" src="https://github.com/user-attachments/assets/387e6387-037d-4696-9a4a-07ffc1943257" />
 
 <img width="872" height="742" alt="Screenshot 2025-09-07 170314" src="https://github.com/user-attachments/assets/54662d01-bc4a-4097-8ba2-ef11c068b32a" />
 
 <img width="941" height="876" alt="Screenshot 2025-09-07 170148" src="https://github.com/user-attachments/assets/8235224c-1406-45f4-bcf2-2f6a9190af35" />
-
-<img width="941" height="876" alt="Screenshot 2025-09-07 170148" src="https://github.com/user-attachments/assets/82f4fb2e-dfd9-43d9-9a05-35e22a9232e9" />
 
 <img width="952" height="873" alt="Screenshot 2025-09-07 170138" src="https://github.com/user-attachments/assets/c941b407-caab-4b8d-99da-e3ec784e93d4" />
 
